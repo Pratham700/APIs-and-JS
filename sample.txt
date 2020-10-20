@@ -1,0 +1,1 @@
+I Am A sample Text saved in a Local file.
